@@ -1,0 +1,18 @@
+{
+  "name": "props",
+  "version": "1.0.0",
+  "main": "cluster.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "csv-stringify": "^6.5.2",
+    "puppeteer": "^24.6.0"
+  }
+}
